@@ -1,0 +1,1 @@
+Realizado por Ing. Patricio Rojas Contreras &copy;<%= new java.text.SimpleDateFormat("yyyy").format(new java.util.Date()) %>

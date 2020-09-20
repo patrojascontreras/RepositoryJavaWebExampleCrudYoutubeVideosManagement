@@ -1,0 +1,36 @@
+@CHARSET "ISO-8859-1";
+#divPiePagina {
+    margin-top: 10px;
+    text-align: center;
+    font-size: 14px;
+}
+table thead tr td {
+    font-weight: bold;
+}
+#pos01 {
+    margin-bottom: 10px;
+}
+#pos02 {
+    margin-bottom: 10px;
+}
+#buscarPorId {
+    height: 37px;
+    border-radius: 5px;
+}
+#mostrarResultadoData {
+    float: left;
+}
+#mostrarResultadoData img {
+    cursor: pointer;
+}
+#mostrarVideoSubido {
+    margin-top: 10px;
+}
+
+table.table.table-bordered {
+    width: 1154px;
+}
+table.table.table-bordered img {
+    width: 18px;
+    height: 18px;
+}
